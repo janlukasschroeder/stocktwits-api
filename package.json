@@ -1,0 +1,26 @@
+{
+  "name": "stocktwits-api",
+  "version": "1.0.0",
+  "description": "stocktwits.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janlukasschroeder/stocktwits-api.git"
+  },
+  "keywords": [
+    "stocktwits",
+    "API"
+  ],
+  "author": "Jan Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janlukasschroeder/stocktwits-api/issues"
+  },
+  "homepage": "https://github.com/janlukasschroeder/stocktwits-api#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
